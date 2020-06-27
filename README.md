@@ -4,4 +4,4 @@
 - Analysis done with the help of tableau desktop
 
 
-<img src="/users/nithyaprasath/desktop/tableau.png" width="250">
+<img src="https://github.com/Np5123/Covid19-Analysis-using-Tableau/blob/master/tableau.png" width="250">
